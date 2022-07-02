@@ -1,23 +1,31 @@
-# Scoop Bucket Template
+## 来源
 
-<!-- Uncomment the following line after replacing placeholders -->
-<!-- [![Tests](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml) -->
+**非原创！**自己常用的软件（除官方 bucket 有的外）集合，源自多个其他 bucket。
 
-Template bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
+|               App               |                   json 来源                    |
+| :-----------------------------: | :--------------------------------------------: |
+| CrystalDiskInfo Shizuku Edition | [dorado](https://github.com/chawyehsu/dorado)  |
+|            foobox-cn            |     [xeno](https://github.com/Befod/Xeno)      |
+|           LAV Filters           |   [sushi](https://github.com/kidonng/sushi)    |
+|             NeeView             |   [meta](https://github.com/manjaroyyq/Meta)   |
+|           xy-VSFilter           | [gladtbam](https://github.com/Gladtbam/Bucket) |
 
-How do I install these manifests?
----------------------------------
+## 获取
 
-To add this bucket, run `scoop bucket add <bucketname> https://github.com/<username>/<bucketname>`. To install, do `scoop install <manifest>`.
+添加 bucket：
 
-How do I contribute new manifests?
-----------------------------------
+```powershell
+scoop bucket add zero https://github.com/Musoukyoku/my-bucket
+```
 
-To make a new manifest contribution, please read the [Contributing Guide](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md).
+安装软件：
 
-----
+```powershell
+scoop bucket add zero/<app>
+```
 
-#### To use this template
+删除 bucket：
 
-- Modify the Readme.md and the bin/auto-pr.ps1 files accordingly.
-- Enable GitHub Actions for this repository.
+```powershell
+scoop bucket rm zero
+```
