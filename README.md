@@ -9,6 +9,7 @@
 |           LAV Filters           |   [sushi](https://github.com/kidonng/sushi)    |
 |             NeeView             |   [meta](https://github.com/manjaroyyq/Meta)   |
 |           xy-VSFilter           | [gladtbam](https://github.com/Gladtbam/Bucket) |
+|         163MusicLyrics          |    [apps](https://github.com/DoveBoy/Apps)     |
 
 ## 获取
 
