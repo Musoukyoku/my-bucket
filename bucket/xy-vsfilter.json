@@ -1,11 +1,11 @@
 {
-    "version": "3.2.0.806",
+    "version": "3.2.0.808",
     "homepage": "https://github.com/pinterf/xy-VSFilter",
     "description": "High Quality Subtitle Rendering",
     "license": "GPL-2.0-only",
     "depends": "sudo",
-    "url": "https://github.com/pinterf/xy-VSFilter/releases/download/3.2.0.806/xyVSFilterSubFilter-pfmod-3.2.0.806.7z",
-    "hash": "894f18ca8ab78bfc3532cdc005183a49cce2ed0f02f2e509720d04cd58fed587",
+    "url": "https://github.com/pinterf/xy-VSFilter/releases/download/3.2.0.808/xyVSFilterSubFilter-pfmod-3.2.0.808.7z",
+    "hash": "e37c62373dd9e5d4f1b56991501902b3520dc08ec7e83da9592c4c713fe64603",
     "architecture": {
         "64bit": {
             "extract_dir": "x64"
