@@ -5,7 +5,7 @@
 |               App               |                   json 来源                    |
 | :-----------------------------: | :--------------------------------------------: |
 | CrystalDiskInfo Shizuku Edition | [dorado](https://github.com/chawyehsu/dorado)  |
-|            foobox-cn            |     [ownscoop](https://github.com/cc713/ownscoop)      |
+|            foobox-cn            |     [lemon](https://github.com/hoilc/scoop-lemon)      |
 |           LAV Filters           |   [sushi](https://github.com/kidonng/sushi)    |
 |             NeeView             |   [meta](https://github.com/manjaroyyq/Meta)   |
 |           xy-VSFilter           | [gladtbam](https://github.com/Gladtbam/Bucket) |
